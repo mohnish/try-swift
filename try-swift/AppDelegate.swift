@@ -14,7 +14,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
 
   func applicationDidFinishLaunching(aNotification: NSNotification?) {
-    // Insert code here to initialize your application
+    println("Hello World! What's cooking?")
   }
 
   func applicationWillTerminate(aNotification: NSNotification?) {
